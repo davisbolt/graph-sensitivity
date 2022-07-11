@@ -1,0 +1,2 @@
+  n   |V|   |E|   deg   alpha   sigma
+  7   35    70    4     15      1

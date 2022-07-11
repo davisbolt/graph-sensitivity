@@ -1,0 +1,177 @@
+n = 1
+  |V|   deg   Alpha   Sigma
+  1     0     1       0
+
+n = 2
+  |V|   deg   Alpha   Sigma
+  2     1     2       0
+
+n = 3
+  |V|   deg   Alpha   Sigma
+  3     2     3       0
+
+n = 4
+  |V|   deg   Alpha   Sigma
+  4     2     2       1
+
+n = 5
+  |V|   deg   Alpha   Sigma
+  5     2     2       1
+
+n = 6
+  |V|   deg   Alpha   Sigma
+  6     3     3       1
+  6     2     2       1
+
+n = 7
+  |V|   deg   Alpha   Sigma
+  7     2     2       1
+
+n = 8
+  |V|   deg   Alpha   Sigma
+  8     2     2       1
+  8     3     2       1
+  8     4     2       1
+
+n = 9
+  |V|   deg   Alpha   Sigma
+  9     2     2       1
+  9     4     3       1
+
+n = 10
+  |V|   deg   Alpha   Sigma
+  10    2     2       1
+  10    3     2       1
+
+n = 11
+  |V|   deg   Alpha   Sigma
+  11    2     2       1
+
+n = 12
+  |V|   deg   Alpha   Sigma
+  12    4     3       1
+  12    3     3       2
+  12    2     2       1
+  12    4     2       1
+  12    4     2       1
+  12    4     3       1
+  12    3     2       1
+
+n = 13
+  |V|   deg   Alpha   Sigma
+  13    2     2       1
+
+n = 14
+  |V|   deg   Alpha   Sigma
+  14    3     2       1
+  14    2     2       1
+
+n = 15
+  |V|   deg   Alpha   Sigma
+  15    4     3       1
+  15    2     2       1
+
+n = 16
+  |V|   deg   Alpha   Sigma
+  16    3     2       1
+  16    2     2       1
+  16    4     2       1
+  16    3     2       1
+  16    4     2       1
+  16    5     2       1
+  16    6     2       1
+  16    3     2       1
+  16    4     2       1
+
+n = 17
+  |V|   deg   Alpha   Sigma
+  17    2     2       1
+
+n = 18
+  |V|   deg   Alpha   Sigma
+  18    3     3       2
+  18    2     2       1
+  18    3     2       1
+  18    4     2       1
+  18    4     2       1
+  18    4     3       1
+  18    3     2       1
+  18    4     3       1
+  18    5     3       1
+
+n = 19
+  |V|   deg   Alpha   Sigma
+  19    2     2       1
+
+n = 20
+  |V|   deg   Alpha   Sigma
+  20    3     2       1
+  20    4     2       1
+  20    4     2       1
+  20    4     2       1
+  20    2     2       1
+  20    4     2       1
+  20    4     2       1
+  20    3     2       1
+
+n = 21
+  |V|   deg   Alpha   Sigma
+  21    4     3       2
+  21    2     2       1
+  21    4     3       1
+  21    4     3       2
+
+n = 22
+  |V|   deg   Alpha   Sigma
+  22    3     2       1
+  22    2     2       1
+
+n = 23
+  |V|   deg   Alpha   Sigma
+  23    2     2       1
+
+n = 24
+  |V|   deg   Alpha   Sigma
+  24    4     3       2
+  24    2     2       1
+  24    4     2       1
+  24    4     2       1
+  24    4     2       1
+  24    4     2       1
+  24    4     3       1
+  24    5     2       1
+  24    6     2       1
+  24    4     3       2
+  24    3     2       1
+  24    4     3       1
+  24    4     2       1
+  24    3     2       1
+  24    3     2       1
+  24    3     2       1
+  24    4     2       1
+  24    3     2       1
+  24    5     3       1
+  24    4     2       1
+  24    4     3       1
+  24    4     3       1
+  24    4     2       1
+  24    3     2       1
+  24    4     2       1
+  24    4     2       1
+  24    3     3       2
+  24    4     3       1
+  24    4     2       1
+  24    5     2       1
+  24    4     2       1
+  24    5     3       1
+  24    4     3       1
+  24    6     2       1
+  24    6     3       1
+  24    6     2       1
+  24    3     2       1
+
+n = 25
+  |V|   deg   Alpha   Sigma
+  25    2     2       1
+  25    4     2       1
+

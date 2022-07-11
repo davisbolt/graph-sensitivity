@@ -1,0 +1,116 @@
+n = 1
+  |V|   deg   Alpha   Sigma
+  1     0     1       0
+
+n = 2
+  |V|   deg   Alpha   Sigma
+  2     1     1       1
+
+n = 3
+  |V|   deg   Alpha   Sigma
+  3     2     1       1
+
+n = 4
+  |V|   deg   Alpha   Sigma
+  4     2     2       2
+
+n = 5
+  |V|   deg   Alpha   Sigma
+  5     2     2       1
+
+n = 6
+  |V|   deg   Alpha   Sigma
+  6     3     2       1
+  6     2     3       1
+
+n = 7
+  |V|   deg   Alpha   Sigma
+  7     2     3       1
+
+n = 8
+  |V|   deg   Alpha   Sigma
+  8     2     4       1
+  8     3     4       2
+  8     4     4       3
+
+n = 9
+  |V|   deg   Alpha   Sigma
+  9     2     4       1
+  9     4     3       1
+
+n = 10
+  |V|   deg   Alpha   Sigma
+  10    2     5       1
+  10    3     4       1
+
+n = 11
+  |V|   deg   Alpha   Sigma
+  11    2     5       1
+
+n = 12
+  |V|   deg   Alpha   Sigma
+  12    4     4       1
+  12    3     4       1
+  12    2     6       1
+  12    4     6       2
+  12    4     4       1
+  12    4     4       1
+  12    3     6       2
+
+n = 13
+  |V|   deg   Alpha   Sigma
+  13    2     6       1
+
+n = 14
+  |V|   deg   Alpha   Sigma
+  14    3     6       1
+  14    2     7       1
+
+n = 15
+  |V|   deg   Alpha   Sigma
+  15    4     5       1
+  15    2     7       1
+
+n = 16
+  |V|   deg   Alpha   Sigma
+  16    3     8       2
+  16    2     8       1
+  16    4     8       2
+  16    3     8       2
+  16    4     8       2
+  16    5     8       3
+  16    6     8       4
+  16    3     8       2
+  16    4     8       2
+
+n = 17
+  |V|   deg   Alpha   Sigma
+  17    2     8       1
+
+n = 18
+  |V|   deg   Alpha   Sigma
+  18    3     6       1
+  18    2     9       1
+  18    3     8       1
+  18    4     9       2
+  18    4     6       1
+  18    4     6       1
+  18    3     9       1
+  18    4     6       1
+  18    5     6       1
+
+n = 19
+  |V|   deg   Alpha   Sigma
+  19    2     9       1
+
+n = 20
+  |V|   deg   Alpha   Sigma
+  20    3     8       1
+  20    4     10      2
+  20    4     8       1
+  20    4     10      2
+  20    2     10      1
+  20    4     8       1
+  20    4     8       1
+  20    3     10      2
+

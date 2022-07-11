@@ -1,0 +1,68 @@
+n = 6
+  |V|   |E|   deg   Gen Set   alpha   sigma
+  6     9     3     (2, 3)    2       1
+
+n = 10
+  |V|   |E|   deg   Gen Set   alpha   sigma
+  10    15    3     (2, 5)    4       1
+
+n = 12
+  |V|   |E|   deg   Gen Set   alpha   sigma
+  12    24    4     (2, 3)    4       1
+  12    24    4     (3, 4)    4       1
+
+n = 14
+  |V|   |E|   deg   Gen Set   alpha   sigma
+  14    21    3     (2, 7)    6       1
+
+n = 15
+  |V|   |E|   deg   Gen Set   alpha   sigma
+  15    30    4     (3, 5)    5       1
+
+n = 18
+  |V|   |E|   deg   Gen Set   alpha   sigma
+  18    36    4     (2, 3)    6       1
+  18    27    3     (2, 9)    8       1
+
+n = 20
+  |V|   |E|   deg   Gen Set   alpha   sigma
+  20    40    4     (4, 5)    8       1
+  20    40    4     (2, 5)    8       1
+
+n = 21
+  |V|   |E|   deg   Gen Set   alpha   sigma
+  21    42    4     (3, 7)    7       1
+
+n = 22
+  |V|   |E|   deg   Gen Set   alpha   sigma
+  22    33    3     (2, 11)   10      1
+
+n = 24
+  |V|   |E|   deg   Gen Set   alpha   sigma
+  24    48    4     (2, 3)    9       1
+  24    48    4     (3, 8)    8       1
+  24    48    4     (3, 4)    9       1
+
+n = 26
+  |V|   |E|   deg   Gen Set   alpha   sigma
+  26    39    3     (2, 13)   12      1
+
+n = 28
+  |V|   |E|   deg   Gen Set   alpha   sigma
+  28    56    4     (4, 7)    12      1
+  28    56    4     (2, 7)    12      1
+
+n = 30
+  |V|   |E|   deg   Gen Set       alpha   sigma
+  30    60    4     (3, 14)       12      1
+  30    60    4     (3, 4)        12      1
+  30    60    4     (3, 10)       10      1
+  30    60    4     (2, 3)        12      1
+  30    75    5     (6, 10, 15)   10      1
+  30    60    4     (2, 9)        12      1
+  30    60    4     (8, 9)        12      1
+  30    60    4     (5, 6)        12      1
+  30    45    3     (2, 15)       14      1
+  30    60    4     (2, 5)        12      1
+  30    60    4     (3, 5)        15      2
+

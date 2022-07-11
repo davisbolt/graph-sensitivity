@@ -1,0 +1,21 @@
+n = 6
+  |V|   |E|   deg   Gen Set   alpha   sigma
+  12    18    3     (2, 3)    4       1
+
+n = 10
+  |V|   |E|   deg   Gen Set   alpha   sigma
+  20    30    3     (2, 5)    8       1
+
+n = 12
+  |V|   |E|   deg   Gen Set   alpha   sigma
+  24    48    4     (2, 3)    8       1
+  24    48    4     (3, 4)    8       1
+
+n = 14
+  |V|   |E|   deg   Gen Set   alpha   sigma
+  28    42    3     (2, 7)    12      1
+
+n = 15
+  |V|   |E|   deg   Gen Set   alpha   sigma
+  30    60    4     (3, 5)    10      1
+
